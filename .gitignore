@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+.env.*
+
+# Data and model artifacts
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+
+# Large datasets (review exceptions when necessary)
+datasets/
+data/raw/
+
+# Temporary files
+*.log
+*.tmp
