@@ -32,8 +32,8 @@ through Graph-Based Learning techniques.
 
 ## Contributors
 
-- Youness Eddamej
-- Second contributor: To be completed
+- YOUNESS EDDAMEJ
+- ILYAS ZEFZAFI
 
 ## Status
 
